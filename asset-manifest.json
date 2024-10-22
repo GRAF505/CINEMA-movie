@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CINEMA-movie/static/css/main.94c19555.css",
+    "main.js": "/CINEMA-movie/static/js/main.72d7fec2.js",
+    "index.html": "/CINEMA-movie/index.html",
+    "main.94c19555.css.map": "/CINEMA-movie/static/css/main.94c19555.css.map",
+    "main.72d7fec2.js.map": "/CINEMA-movie/static/js/main.72d7fec2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c19555.css",
+    "static/js/main.72d7fec2.js"
+  ]
+}
